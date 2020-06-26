@@ -1,0 +1,17 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    margin: 20px;
+}
+h1 {
+    background-color: royalblue;
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+    font-size: 48px;
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 15px;
+}
