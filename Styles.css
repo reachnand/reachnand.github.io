@@ -3,10 +3,10 @@ body {
     margin: 20px;
 }
 h1 {
-    background-color: royalblue;
-    color: wheat;
+    background-color: rgb(72, 132, 167);
+    color: yellowgreen;
     text-align: center;
-    padding: 20px;
+    padding: 18px;
     font-size: 48px;
 }
 
